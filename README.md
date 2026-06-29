@@ -17,9 +17,7 @@
   - style.css — card styling and hover effects
   - cp_2.js — fetch logic, product rendering, and error handling
 
-  ## API
-  Data is pulled from:
-  https://www.course-api.com/javascript-store-products
+
 
 
  
